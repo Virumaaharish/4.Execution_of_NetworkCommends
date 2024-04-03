@@ -1,32 +1,26 @@
 # 4.Execution_of_NetworkCommands
-## AIM :Use of Network commands in Real Time environment
-## Software : Command Prompt And Network Protocol Analyzer
-## Procedure: To do this EXPERIMENT- follows these steps:
-<BR>
-In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
-<BR>
-All commands related to Network configuration which includes how to switch to privilege mode
-<BR>
-and normal mode and how to configure router interface and how to save this configuration to
-<BR>
-flash memory or permanent memory.
-<BR>
-This commands includes
-<BR>
-• Configuring the Router commands
-<BR>
-• General Commands to configure network
-<BR>
-• Privileged Mode commands of a router 
-<BR>
-• Router Processes & Statistics
-<BR>
-• IP Commands
-<BR>
-• Other IP Commands e.g. show ip route etc.
-<BR>
+## AIM :
+Use of Network commands in Real Time environment
+
+## Software : 
+Command Prompt And Network Protocol Analyzer
+
+## Procedure:
+
+![image](https://github.com/Virumaaharish/4.Execution_of_NetworkCommends/assets/146074950/b368a901-7eae-430e-a4c2-ad58161709a7)
+
+
+Program:
+
+![Screenshot 2024-04-03 111633](https://github.com/Virumaaharish/4.Execution_of_NetworkCommends/assets/146074950/2b498ac7-840f-464f-b64b-1d9ba210ef3e)
+![Screenshot 2024-04-03 111642](https://github.com/Virumaaharish/4.Execution_of_NetworkCommends/assets/146074950/2af0989a-bb31-4263-a0fe-b03b3eee9525)
+
 
 ## Output
+
+![Screenshot 2024-04-03 111658](https://github.com/Virumaaharish/4.Execution_of_NetworkCommends/assets/146074950/bd74b344-1ced-4b2e-8c5a-d2c2b87db33e)
+![Screenshot 2024-04-03 111711](https://github.com/Virumaaharish/4.Execution_of_NetworkCommends/assets/146074950/800273bf-6158-4264-b127-7aed2d5d1db6)
+
 
 ## Result
 Thus Execution of Network commands Performed 
